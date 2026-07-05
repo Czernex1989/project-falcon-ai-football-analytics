@@ -1,33 +1,71 @@
-FALCON - START
+# Project FALCON 🦅
 
-1. Najpierw otwieram:
-01_Master / FALCON_Master_Project_v1.0.pdf lub .odt
+Project FALCON is a structured AI, data and football analytics portfolio project.
 
-2. Potem otwieram:
-02_60_Day_Plan / FALCON_60_Day_Execution_Plan_v1.0.pdf
+The goal is to build practical skills in AI evaluation, SQL, Python and football analytics through visible, documented work.
 
-3. Codziennie realizuję konkretny dzień z planu.
+## Main focus
 
-4. Jeśli są płatne AI Taski, robię je w pierwszej kolejności.
+- AI evaluation
+- Search quality
+- SQL fundamentals
+- Python foundations
+- Football analytics
+- Portfolio building
+- GitHub documentation
 
-5. Minimum dnia:
-15 minut SQL albo Python
-lub jeden mały widoczny efekt.
+## Current stage
 
-6. Główne foldery projektu:
-01_Master - dokument główny
-02_60_Day_Plan - plan 60 dni
-03_SQL - ćwiczenia i projekty SQL
-04_Python - ćwiczenia i projekty Python
-05_Football_Analytics - raporty i analizy piłkarskie
-06_GitHub - struktura repozytoriów
-07_Portfolio - projekty do pokazania
-08_CV - CV i profile
-09_AI_Tasks - platformy, taski i zarobki
+Project FALCON is currently in the early execution phase.
 
-FALCON DAY 1 START:
-03.07.2026
+The first stage focuses on:
 
-Zasada:
-Nie buduję kariery jednym wielkim krokiem.
-Buduję ją jednym dobrze wykonanym dniem.
+- building the public project structure,
+- documenting daily progress,
+- practicing SQL basics,
+- developing Python foundations,
+- preparing football analytics reports,
+- creating portfolio-ready work.
+
+## Project motto
+
+**AI przyspiesza pracę, a człowiek nadaje jej sens.**
+
+## Repository structure
+
+```text
+01_Master              Project documentation
+02_60_Day_Plan         60-day execution roadmap
+03_SQL                 SQL practice and mini-projects
+04_Python              Python practice and mini-projects
+05_Football_Analytics  Football analysis work
+06_GitHub              GitHub structure and documentation
+07_Portfolio           Portfolio-ready outputs
+Progress_Log           Daily progress updates
+```
+
+## Day 1
+
+The first public execution log is available in:
+
+```text
+Progress_Log/DAY_001.md
+```
+
+The first SQL practice file is available in:
+
+```text
+03_SQL/day_001_sql_basics.sql
+```
+
+## Long-term direction
+
+The long-term goal of Project FALCON is to move toward remote AI/data-related work and gradually build a strong football analytics portfolio.
+
+## Working principle
+
+FALCON is not about pretending to be an expert from day one.
+
+It is about showing consistent progress, practical learning and visible proof of work.
+
+Every small project, report, SQL file and progress log is part of a larger career transition path.
