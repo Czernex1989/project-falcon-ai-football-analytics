@@ -1,71 +1,100 @@
-# Project FALCON 🦅
+# 🦅 FALCON
 
-Project FALCON is a structured AI, data and football analytics portfolio project.
+## AI Football Analytics Portfolio
 
-The goal is to build practical skills in AI evaluation, SQL, Python and football analytics through visible, documented work.
+FALCON is my long-term portfolio documenting my development as a Football Analyst using AI, data analysis and programming.
 
-## Main focus
+The project focuses on building practical analytical skills step by step instead of creating artificial showcase projects.
 
-- AI evaluation
-- Search quality
-- SQL fundamentals
-- Python foundations
-- Football analytics
-- Portfolio building
-- GitHub documentation
+> "AI accelerates the work, and humans give it meaning."
 
-## Current stage
+---
 
-Project FALCON is currently in the early execution phase.
+# Project Goals
 
-The first stage focuses on:
+- Learn Football Analytics through real match analysis
+- Build a professional GitHub portfolio
+- Improve SQL and Python skills
+- Apply AI to football analysis
+- Document continuous development
 
-- building the public project structure,
-- documenting daily progress,
-- practicing SQL basics,
-- developing Python foundations,
-- preparing football analytics reports,
-- creating portfolio-ready work.
+---
 
-## Project motto
+# Project Roadmap
 
-**AI przyspiesza pracę, a człowiek nadaje jej sens.**
+## FALCON v0.1
 
-## Repository structure
+- GitHub repository
+- README
+- Knowledge Map
+- Match Analysis Template
+- First Match Reports
 
-```text
-01_Master              Project documentation
-02_60_Day_Plan         60-day execution roadmap
-03_SQL                 SQL practice and mini-projects
-04_Python              Python practice and mini-projects
-05_Football_Analytics  Football analysis work
-06_GitHub              GitHub structure and documentation
-07_Portfolio           Portfolio-ready outputs
-Progress_Log           Daily progress updates
+## FALCON v0.2
+
+- Player Analysis
+- SQL for Football Analytics
+- Python for Football Analytics
+- Data Visualization
+- Dashboards
+
+---
+
+# Repository Structure
+
+```
+01_Master
+02_60_Day_Plan
+03_SQL
+04_Python
+05_Football_Analytics
+06_GitHub
+07_Portfolio
+08_CV
+09_Resources
+10_AI_TASKS
 ```
 
-## Day 1
+---
 
-The first public execution log is available in:
+# Current Focus
 
-```text
-Progress_Log/DAY_001.md
-```
+Football Match Analysis
 
-The first SQL practice file is available in:
+SQL Fundamentals
 
-```text
-03_SQL/day_001_sql_basics.sql
-```
+Python Fundamentals
 
-## Long-term direction
+Git & GitHub
 
-The long-term goal of Project FALCON is to move toward remote AI/data-related work and gradually build a strong football analytics portfolio.
+AI Evaluation
 
-## Working principle
+---
 
-FALCON is not about pretending to be an expert from day one.
+# Project Principles
 
-It is about showing consistent progress, practical learning and visible proof of work.
+- Continuous improvement
+- Verified data only
+- Consistent report structure
+- Professional but simple English
+- Portfolio before complexity
 
-Every small project, report, SQL file and progress log is part of a larger career transition path.
+---
+
+# Technologies
+
+- Git
+- GitHub
+- SQL
+- Python
+- AI
+- Football Analytics
+
+---
+
+Author
+
+**Artur Czernek**
+
+GitHub:
+https://github.com/Czernex1989
