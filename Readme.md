@@ -2,99 +2,101 @@
 
 ## AI Football Analytics Portfolio
 
-FALCON is my long-term portfolio documenting my development as a Football Analyst using AI, data analysis and programming.
+> **Every match tells a story.**
 
-The project focuses on building practical analytical skills step by step instead of creating artificial showcase projects.
+Football is more than statistics.
 
-> "AI accelerates the work, and humans give it meaning."
+Every match has its own rhythm, key moments and turning points.
 
----
+FALCON combines football knowledge, verified data and AI-assisted analysis to explain not only what happened, but also why it happened.
 
-# Project Goals
-
-- Learn Football Analytics through real match analysis
-- Build a professional GitHub portfolio
-- Improve SQL and Python skills
-- Apply AI to football analysis
-- Document continuous development
+> AI accelerates the work, and humans give it meaning.
 
 ---
 
-# Project Roadmap
+# Project Philosophy
 
-## FALCON v0.1
+FALCON is my long-term Football Analytics portfolio.
 
-- GitHub repository
-- README
-- Knowledge Map
-- Match Analysis Template
-- First Match Reports
+The goal is continuous improvement.
 
-## FALCON v0.2
-
-- Player Analysis
-- SQL for Football Analytics
-- Python for Football Analytics
-- Data Visualization
-- Dashboards
+Every report should become slightly better than the previous one while keeping the same structure and methodology.
 
 ---
 
-# Repository Structure
+# Narrative Match Reports
 
-```
-01_Master
-02_60_Day_Plan
-03_SQL
-04_Python
-05_Football_Analytics
-06_GitHub
-07_Portfolio
-08_CV
-09_Resources
-10_AI_TASKS
-```
+Starting from Report 007, FALCON introduces its own Narrative Match Report methodology.
 
----
+Every report contains:
 
-# Current Focus
+- Match Information
+- Match Context
+- General Match Overview
+- Team Analysis
+- Attacking Phase
+- Defensive Phase
+- Key Players
+- Tactical Observations
+- Statistical Summary
+- Final Thoughts
+- Match Story
 
-Football Match Analysis
+The final section answers one simple question:
 
-SQL Fundamentals
-
-Python Fundamentals
-
-Git & GitHub
-
-AI Evaluation
+> **What story did this match tell?**
 
 ---
 
-# Project Principles
+# Methodology
 
-- Continuous improvement
-- Verified data only
-- Consistent report structure
-- Professional but simple English
-- Portfolio before complexity
+Every report follows four principles.
+
+## Football comes first.
+
+The match is watched and analysed before writing.
+
+## Facts must be verified.
+
+Statistics and important information are checked before publication.
+
+## AI supports the analysis.
+
+Artificial Intelligence helps organise information and speed up the workflow.
+
+## Human judgement remains essential.
+
+The final analysis reflects my own observations and football understanding.
 
 ---
 
 # Technologies
 
+- AI
 - Git
 - GitHub
-- SQL
-- Python
-- AI
-- Football Analytics
+- Markdown
+- SQL (Learning)
+- Python (Learning)
 
 ---
 
-Author
+# Current Version
 
-**Artur Czernek**
+## FALCON v0.2
 
-GitHub:
-https://github.com/Czernex1989
+Narrative Match Reports
+
+---
+
+# Author
+
+Artur Czernek
+
+AI Football Analytics
+
+---
+
+> **Every match tells a story.**
+
+> **AI accelerates the work, and humans give it meaning.**
