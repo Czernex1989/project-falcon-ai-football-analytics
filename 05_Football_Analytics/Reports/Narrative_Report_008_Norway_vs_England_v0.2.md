@@ -230,12 +230,6 @@ England, however, defended with discipline and composure to secure their place i
 
 ---
 
-# Overall Rating
-
-⭐⭐⭐⭐⭐ Narrative Quality
-
-**Analysis Quality:** 10/10
-
 **FALCON Version:** v0.2
 
 **Status:** Ready for GitHub ✅
