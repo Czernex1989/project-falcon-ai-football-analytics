@@ -155,3 +155,13 @@ Examples:
 - Review defensive transitions.
 - Add xG and shot map in the next version.
 - Prepare a player-focused report.
+
+## 11. Match Story
+
+Summarise the story behind the match.
+
+Focus on the turning points, important moments and emotions that shaped the game.
+
+Answer one simple question:
+
+> What story did this match tell?

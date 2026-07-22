@@ -1,189 +1,231 @@
-# Match Report v0.1: Argentina 3-2 Egypt
+# Project FALCON
 
-## Competition
-FIFA World Cup 2026
+# Football Analysis Report
 
-## Stage
-Round of 16
+Version: 0.1
 
-## Match
-Argentina vs Egypt
+## Match Information
 
-## Final Score
-Argentina 3-2 Egypt
+**Match:** Argentina vs Egypt
 
-## Result
-Argentina advanced to the quarter-finals.
+**Competition:** FIFA World Cup 2026
 
----
+**Stage:** Round of 16
 
-# Report Purpose
+**Final Score:** Argentina 3-2 Egypt
 
-This report was created as part of Project FALCON.
-
-The objective is to practice structured football analysis using clear observations, tactical thinking and data-oriented reporting. The report is based on match observation rather than advanced statistical models.
+**Analyst:** Artur Czernek
 
 ---
 
-# Match Context
+# 1. Match Context
 
-Argentina entered the match as the favourite due to superior individual quality and greater experience in knockout football.
+Argentina and Egypt met in the Round of 16.
 
-Egypt relied on defensive organisation, quick transitions and disciplined positioning while looking for opportunities on the counterattack.
+Both teams played for a place in the quarter-finals.
 
-The game became far more competitive than many expected.
+Argentina won after a difficult and competitive match.
 
----
+Egypt stayed dangerous and made the game very close.
 
-# General Match Overview
-
-Argentina controlled possession for most of the match and attempted to dictate the tempo through patient build-up play.
-
-Egypt defended compactly and remained dangerous whenever space appeared behind Argentina's defensive line.
-
-Although Argentina created more chances overall, Egypt stayed in the game until the final minutes thanks to effective transitions and clinical finishing.
-
-The match was open, entertaining and required Argentina to maintain concentration throughout the ninety minutes.
+This report is based on match observation.
 
 ---
 
-# Tactical Analysis
+# 2. General Match Overview
 
-## Argentina
+Argentina won 3-2 and advanced to the next round.
 
-### In Possession
+The match was more open than the previous reports.
 
-- Controlled possession for long periods.
-- Used short passing combinations to move Egypt's defensive block.
-- Frequently switched play from one side to the other.
-- Full-backs provided attacking width.
-- Midfield controlled the rhythm of the game.
+Both teams created dangerous moments.
 
-### Out of Possession
+Argentina showed more attacking quality.
 
-- High pressing after losing possession.
-- Defensive line remained relatively high.
-- Recovered possession quickly in midfield.
-- Occasionally vulnerable to fast counterattacks.
+Egypt showed strong mentality and did not give up.
 
----
+The game had good rhythm and many transition moments.
 
-## Egypt
+Argentina had to stay focused until the final whistle.
 
-### In Possession
-
-- Preferred direct attacks after ball recovery.
-- Limited possession but efficient attacking transitions.
-- Looked for quick vertical passes.
-- Created danger from open spaces.
-
-### Out of Possession
-
-- Defended with a compact low block.
-- Good defensive discipline.
-- Players stayed close together between the lines.
-- Forced Argentina into several long possession sequences.
+The result reflected a difficult knockout match.
 
 ---
 
-# Key Moments
+# 3. Argentina Analysis
 
-- Argentina opened the scoring through sustained attacking pressure.
-- Egypt responded quickly and showed excellent character.
-- Argentina regained control during the middle phase of the game.
-- Egypt continued to threaten through counterattacks.
-- Argentina scored the decisive goal during the closing stages.
-- Egypt pushed forward until the final whistle but could not equalise.
+Argentina looked confident in possession.
 
----
+The team tried to control the rhythm of the match.
 
-# Individual Team Assessment
+Midfield players helped connect defence and attack.
 
-## Argentina
+Argentina created danger through movement and passing.
 
-### Strengths
+Attacking players found spaces between the lines.
 
-- Excellent technical quality.
-- Better ball circulation.
-- Strong midfield control.
-- Patience during build-up.
-- Ability to create chances under pressure.
+The team showed good technical quality.
 
-### Weaknesses
+Argentina reacted well after difficult moments.
 
-- Defensive transitions were sometimes slow.
-- Left space behind the defensive line.
-- Allowed Egypt several dangerous counterattacks.
+However, defensive control was not perfect.
+
+Egypt created problems in transition.
+
+Argentina won because they had more quality in key moments.
 
 ---
 
-## Egypt
+# 4. Egypt Analysis
 
-### Strengths
+Egypt played with courage.
 
-- Excellent organisation.
-- Strong defensive discipline.
-- Dangerous counterattacks.
-- High work rate.
-- Competitive mentality.
+The team did not defend passively for the whole match.
 
-### Weaknesses
+Egypt looked dangerous after winning the ball.
 
-- Limited possession.
-- Difficulty maintaining attacks.
-- Lower technical quality in the final third.
+Quick attacks caused problems for Argentina.
 
----
+Players showed good energy and commitment.
 
-# Tactical Conclusions
+Egypt stayed mentally strong after conceding goals.
 
-Argentina deserved the victory because they maintained greater control over possession and produced more attacking opportunities.
+The team competed until the end.
 
-Egypt demonstrated that a well-organised defensive structure combined with quick transitions can create significant problems even for technically superior opponents.
-
-The match highlighted the importance of defensive transitions and efficient finishing in knockout football.
+The defensive structure had some problems against Argentina's movement.
 
 ---
 
-# Areas for Improvement
+# 5. Attacking Phase
 
-## Argentina
+### Argentina
 
-- Improve protection against counterattacks.
-- Reduce unnecessary defensive gaps.
-- Increase efficiency when converting chances.
+Argentina attacked with technical quality.
 
-## Egypt
+Short passing helped move the ball forward.
 
-- Maintain possession for longer periods.
-- Improve attacking support after transitions.
-- Create more opportunities from positional attacks.
+Players changed positions to create space.
 
----
+The final third actions were decisive.
 
-# Overall Performance Ratings
+### Egypt
 
-Argentina: 8.7 / 10
+Egypt attacked quickly after recoveries.
 
-Egypt: 7.6 / 10
+Direct play helped move the ball into dangerous areas.
 
----
+The team used transition moments well.
 
-# Final Conclusion
-
-Argentina progressed to the quarter-finals after a demanding and competitive match.
-
-Egypt delivered one of their strongest performances of the tournament despite elimination.
-
-The game demonstrated that Argentina's technical superiority ultimately made the difference, while Egypt earned considerable respect through disciplined defending, resilience and dangerous attacking transitions.
+Egypt created enough danger to stay in the match.
 
 ---
 
-Project:
-FALCON - AI Football Analytics
+# 6. Defensive Phase
 
-Analyst:
-Artur Czernek
+### Argentina
 
-Version:
-v0.1
+Argentina defended with good effort.
+
+The team tried to press after losing possession.
+
+Some spaces appeared during defensive transitions.
+
+Egypt used these spaces well.
+
+### Egypt
+
+Egypt defended with commitment.
+
+The team tried to stay compact.
+
+Argentina's movement made defending difficult.
+
+Individual quality created problems near the penalty area.
+
+---
+
+# 7. Transitions
+
+Transitions were one of the most important parts of the match.
+
+Argentina tried to counter-press quickly.
+
+Egypt looked dangerous when attacking space.
+
+Both teams had moments when the game became open.
+
+This made the match intense and difficult to control.
+
+---
+
+# 8. Key Tactical Battle
+
+The main tactical battle was Argentina's technical possession against Egypt's fast transitions.
+
+Argentina wanted control.
+
+Egypt wanted to attack space quickly.
+
+This contrast created many important moments during the match.
+
+---
+
+# 9. Key Moment
+
+The decisive moment came when Argentina found the final goal.
+
+Egypt had stayed close in the score.
+
+Argentina showed better quality in the most important attacking actions.
+
+This decided the match.
+
+---
+
+# 10. Match Statistics
+
+Result: Argentina 3-2 Egypt
+
+Winner: Argentina
+
+Stage: Round of 16
+
+Additional statistics will be added only from verified sources.
+
+---
+
+# 11. Tactical Conclusions
+
+Argentina deserved the victory because they were more effective in attack.
+
+Egypt played a brave and competitive match.
+
+The game showed the importance of transitions.
+
+Argentina controlled more football moments but still had defensive problems.
+
+Egypt proved that organisation and speed can trouble stronger teams.
+
+---
+
+# 12. Methodology
+
+This report is based on match observation.
+
+No unverified statistics were used.
+
+The purpose is to improve football analysis step by step.
+
+Project motto:
+
+**AI speeds up the work, but people give it meaning.**
+
+---
+
+# 13. Final Assessment
+
+Argentina advanced after a difficult knockout match.
+
+Egypt can leave the tournament with a strong performance.
+
+This report shows a small step forward in Project FALCON because it includes more focus on transitions and match rhythm.

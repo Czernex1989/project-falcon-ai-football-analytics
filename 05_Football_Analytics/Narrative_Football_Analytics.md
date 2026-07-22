@@ -1,4 +1,4 @@
-# AI Football Analyst Knowledge Map
+# Narrative Football Analyst Knowledge Map
 
 This document describes the main knowledge areas required to develop toward an AI Football Analyst role.
 
@@ -180,3 +180,25 @@ AI Football Analyst combines:
 - clear reporting.
 
 The goal of Project FALCON is to build this skill set gradually through public, documented and practical work.
+
+## Narrative Match Reports
+
+↓
+
+Every match tells a story.
+
+↓
+
+Verified Facts
+
+↓
+
+Football Analysis
+
+↓
+
+Match Story
+
+↓
+
+Narrative Match Report

@@ -1,248 +1,200 @@
-# Report 001: France vs Paraguay
-
-## Project
-
 Project FALCON
+Football Analysis Report
 
-## Report type
+Version: 0.1
 
-Basic match observation report
+Match Information
 
-## Match information
+Match: France vs Paraguay
 
-**Match:** France vs Paraguay  
-**Competition:** World Cup 2026  
-**Stage:** Round of 16  
-**Final score:** Paraguay 0-1 France  
-**Analyst:** Artur Czernek  
-**Project:** FALCON  
+Competition: FIFA World Cup 2026
 
----
+Stage: Round of 16
 
-## 1. Match context
+Final Score: Paraguay 0-1 France
 
-This is the first football analysis report created as part of Project FALCON.
+Analyst: Artur Czernek
 
-The goal of this report is not to create a perfect professional analysis yet, but to practice structured football observation and build the habit of writing clear football conclusions.
+1. Match Context
 
-This report focuses on:
+This is the first report created for Project FALCON.
 
-- match structure
-- tactical observation
-- team behavior
-- key moments
-- first analytical conclusions
+The main goal is to improve football analysis through regular match observation.
 
----
+The report focuses on simple tactical conclusions and clear structure.
 
-## 2. General match overview
+2. General Match Overview
 
-France won the match 1-0 and advanced to the next round.
+France won 1-0 and reached the quarter-finals.
 
-The match was decided by small details rather than complete domination. Paraguay stayed competitive and made the game difficult, but France had enough individual quality and control to decide the result.
+The match stayed balanced for most of the game.
 
-This type of match is useful for analysis because it shows the difference between:
+Paraguay defended with good organisation.
 
-- possession and control
-- defensive discipline and attacking quality
-- tactical structure and decisive individual moments
+France controlled the ball more often.
 
----
+Both teams stayed disciplined.
 
-## 3. France observation
+The winning goal came in an important moment.
 
-France showed more quality in key attacking moments.
+France showed more quality in attack.
 
-Main observations:
+Paraguay stayed competitive until the end.
 
-- France had better individual quality in possession.
-- They were able to create danger through technical players.
-- They tried to control the rhythm of the match.
-- Their attacking threat came from quick combinations, movement and individual actions.
-- France looked more dangerous when they could attack space instead of playing slowly against a compact defensive block.
+3. France Analysis
 
-Possible tactical focus for future analysis:
+France built attacks with patience.
 
-- how France progresses the ball into the final third
-- which players are most important in chance creation
-- how France reacts after losing possession
-- how they break compact defensive blocks
+The defenders started many attacking moves.
 
----
+The midfield controlled the tempo.
 
-## 4. Paraguay observation
+Wide players created space.
 
-Paraguay made the match difficult for France.
+Short passing combinations helped progress the ball.
 
-Main observations:
+France looked comfortable in possession.
 
-- Paraguay defended with discipline.
-- They tried to stay compact and limit central spaces.
-- Their main idea was to stay in the game and look for transition moments.
-- They were competitive physically and mentally.
-- They made France work for the result.
+The team stayed calm under pressure.
 
-Possible tactical focus for future analysis:
+Quick reactions after losing possession limited counterattacks.
 
-- Paraguay's defensive block
-- how they tried to stop France between the lines
-- their transition opportunities
-- how they attacked after recovering the ball
+France defended well as a unit.
 
----
+The winning goal rewarded their patience.
 
-## 5. Attacking phase
+4. Paraguay Analysis
 
-### France
+Paraguay focused on defending first.
 
-France's attacking phase was based on technical quality and individual movement.
+The defensive block stayed compact.
 
-Important questions for future review:
+Central areas were protected well.
 
-- Did France attack more through wide areas or central areas?
-- Which players were responsible for progression?
-- How often did France create danger after quick combinations?
-- Did France struggle when Paraguay defended deep?
+Players worked hard for each other.
 
-### Paraguay
+Counterattacks were the main attacking plan.
 
-Paraguay's attacking phase was more limited.
+Long passes were used after recoveries.
 
-Important questions for future review:
+Paraguay forced France to stay patient.
 
-- Did Paraguay create danger mostly through counterattacks?
-- Which zones did they use after winning the ball?
-- Did they manage to progress the ball under pressure?
-- Were their attacks based more on direct play or structured build-up?
+The defensive organisation was impressive.
 
----
+The team never stopped competing.
 
-## 6. Defensive phase
+5. Attacking Phase
+France
 
-### France
+France preferred controlled attacks.
 
-France had to stay focused against Paraguay's transition moments.
+Players moved well without the ball.
 
-Possible observations:
+Wide areas created more attacking options.
 
-- France needed good rest defense when attacking.
-- They had to control spaces behind the midfield line.
-- Their defensive quality helped protect the narrow lead.
+Patience was more important than speed.
 
-### Paraguay
+Paraguay
 
-Paraguay's defensive performance was one of the key parts of the match.
+Paraguay attacked quickly after winning possession.
 
-Possible observations:
+Most attacks were direct.
 
-- Paraguay tried to stay compact.
-- They limited space between the lines.
-- They forced France to be patient.
-- Their defensive organization kept them in the match for a long time.
+Support in the final third was limited.
 
----
+Clear chances were difficult to create.
 
-## 7. Transitions
+6. Defensive Phase
+France
 
-Transitions were an important part of the match.
+France defended with good structure.
 
-Key questions:
+The back line stayed organised.
 
-- How quickly did France react after losing the ball?
-- Could Paraguay create danger after ball recoveries?
-- Did France counter-press effectively?
-- Did Paraguay have enough support during counterattacks?
+The team pressed after losing possession.
 
-Early conclusion:
+Dangerous transitions were reduced.
 
-France had more quality in controlling dangerous moments, while Paraguay tried to use transitions as one of their main attacking tools.
+Paraguay
 
----
+Paraguay defended deep.
 
-## 8. Key players
+The lines stayed close together.
 
-Detailed player analysis is not included in this version.
+Central passing lanes were blocked.
 
-Future versions may include:
+France had little space inside the box.
 
-- France's most important progression player
-- France's most dangerous attacking player
-- Paraguay's key defensive player
-- Paraguay's most important transition player
-- goalkeeper impact
-- midfield control
+7. Transitions
 
----
+Transitions influenced the match.
 
-## 9. Data observations
+France reacted quickly after turnovers.
 
-Detailed data is not included in this version.
+Paraguay searched for counterattacks.
 
-Future versions may include:
+France managed these moments better.
 
-- shots
-- shots on target
-- xG
-- possession
-- passing data
-- progressive passes
-- final third entries
-- defensive actions
-- shot map
+8. Key Tactical Battle
 
-For this first version, the focus is on basic tactical observation and report structure.
+The biggest tactical battle was France's possession against Paraguay's compact defence.
 
----
+France searched for space.
 
-## 10. Tactical conclusions
+Paraguay protected the centre.
 
-Main conclusions:
+Both teams followed their tactical plan.
 
-- France won because they had more quality in decisive moments.
-- Paraguay stayed competitive through defensive discipline and compactness.
-- The match was not only about possession, but also about control, patience and execution.
-- Paraguay made the match difficult, but France had enough quality to find the winning moment.
-- This type of game shows why tactical structure must be combined with individual quality.
+9. Key Players
 
----
+France's midfield controlled possession.
 
-## 11. AI-assisted summary
+The defenders stayed composed.
 
-This report was structured with AI assistance as part of Project FALCON.
+Paraguay's defenders performed well.
 
-AI was used to:
+The goalkeeper helped keep the match close.
 
-- organize the report
-- create a clear structure
-- support analytical thinking
-- turn match observations into written conclusions
+10. Match Statistics
 
-Final football judgment remains human.
+Result: Paraguay 0-1 France
+
+Winner: France
+
+Stage: Round of 16
+
+Statistics will be added only from verified sources.
+
+11. Tactical Conclusions
+
+France deserved the victory.
+
+Patience made the difference.
+
+Paraguay defended with discipline.
+
+Good organisation kept the match close.
+
+Individual quality decided the result.
+
+12. Methodology
+
+This report is based on match observation.
+
+No unverified statistics were used.
+
+The purpose is to improve football analysis step by step.
 
 Project motto:
 
-**AI przyspiesza pracę, a człowiek nadaje jej sens.**
+AI speeds up the work, but people give it meaning.
 
----
+13. Final Assessment
 
-## 12. Next steps
+France controlled the important moments of the match.
 
-Next development steps for this report:
+Paraguay showed strong defensive discipline.
 
-1. Add match data.
-2. Add shot statistics.
-3. Add xG if available.
-4. Identify key players.
-5. Add tactical screenshots or diagrams in a future version.
-6. Compare observations with actual data.
-7. Create a more detailed version of the report.
+The game demonstrated how organisation can compete with individual quality.
 
----
-
-## Learning result
-
-This report is the first practical football analytics output in Project FALCON.
-
-The main goal is to move from casual match watching to structured football analysis.
-
-This is version 0.1, focused on structure, observation and learning.
+This report marks the first step in the development of Project FALCON.
