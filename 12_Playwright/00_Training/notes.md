@@ -38,3 +38,16 @@ Znajduje link „Aktualności”, klika go i czeka na wykonanie kliknięcia.
 await page.getByRole("textbox").fill("Real Madrid");
 
 Znajduje pole tekstowe i wpisuje do niego „Real Madrid”.
+
+await page.getByRole("textbox").fill("Real Madrid");
+
+Znaczenie:
+
+page = strona
+getByRole("textbox") = znajdź pole tekstowe
+.fill("Real Madrid") = wpisz tekst
+await = poczekaj, aż operacja się wykona
+
+Po ludzku:
+
+Znajdź pole tekstowe i wpisz do niego „Real Madrid”.
